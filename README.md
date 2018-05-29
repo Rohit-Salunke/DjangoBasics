@@ -1,0 +1,2 @@
+# DjangoBasics
+First Django Application
